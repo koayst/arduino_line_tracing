@@ -8,6 +8,6 @@ This documents the work done for the STEM training I conducted for students who 
 - Lego-like assembly kit
 
 # Directory
-- code   -> Arduino source codes 
-- docs   -> Microsoft Powerpoint insstruction to build and code and line tracing vehicle
-- videos -> Videos to show the final products 
+- code   -> Arduino source codes. 
+- docs   -> Adobe PDF instructions to build and code the line tracing vehicle.
+- videos -> Videos to show the final product i.e. 1-Infrared or 2-Infrared sensors line tracing motorised vehice.
