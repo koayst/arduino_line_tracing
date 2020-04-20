@@ -1,4 +1,4 @@
-# Arduino (Line Tracing Vehicle)
+# Arduino (Line Tracing Motorised Vehicle)
 
 This documents the work done for the STEM training I conducted for students who were building line tracing motorised vehicle.
 
