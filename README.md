@@ -6,6 +6,7 @@ This documents the work done for the STEM training I conducted for students who 
 - Arduino UNO compatible
 - Motors (Left and Right)
 - Lego-like assembly kit
+- Infrared Sensor(s) - 1 or 2 sensor configuration
 
 # Directory
 - code   -> Arduino source codes. 
